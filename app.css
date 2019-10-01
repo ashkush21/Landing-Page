@@ -1,3 +1,7 @@
+/*
+The following is the front end CSS stylesheet that is used to bring about front end changes in whichever html file it is included in.
+It works on the basis inclusion of classes or by applying the style changes to the blocks/containers in the html page.
+*/
 body {
     background: url(playstation_gamepad_crash_22102_1920x1080.jpg);
     background-size: cover;
